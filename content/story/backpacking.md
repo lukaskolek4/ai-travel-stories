@@ -2,7 +2,7 @@
 title: "A Backpacking Adventure of Laughter and Challenges"
 date: 2022-05-11
 draft: false
-featured_image: https://lukaskolek4-super-duper-meme-px6rqgrpx5phgv7-1313.preview.app.github.dev/img/cover.jpg
+featured_image: /img/cover.jpg
 ---
 
 Lukas and Aneta had been planning their backpacking trip for months. Lukas was optimistic and excited about the adventure, while Aneta was negative but always managed to find humor in the situation.
@@ -13,6 +13,8 @@ But as they continued on their journey, the weather began to change. Clouds star
 
 "Don't worry Aneta, I'm sure it's just a passing shower," he said cheerfully.
 
+![alt](/img/3a2.png)
+
 But it wasn't just a passing shower. Soon, the sky opened up and rain poured down on them. They hastily put on their rain gear, but it was no match for the downpour.
 
 As they trudged through the rain, Aneta complained about the wet and miserable conditions. Lukas, on the other hand, remained upbeat and optimistic.
@@ -21,11 +23,10 @@ As they trudged through the rain, Aneta complained about the wet and miserable c
 
 Aneta rolled her eyes but couldn't help but laugh at Lukas's ridiculous statement.
 
-Question: What happens next?
-![alt](/static/backpacking/cover.jpg)
+### What happens next?
 
+[They come across a stream that has swollen due to the rain.]({{< relref "../backpacking/1.md" >}})
 
+[The rain clears up, and they find a beautiful spot to camp for the night.]({{< relref "../backpacking/2.md" >}})
 
--- [Option 1: They come across a stream that has swollen due to the rain.]({{< relref "../backpacking/1.md" >}})
--- [Option 2: The rain clears up, and they find a beautiful spot to camp for the night.]({{< relref "../backpacking/2.md" >}})
--- [Option 3: They realize they're lost and need to find their way back to the trail.]({{< relref "../backpacking/3.md" >}})
+[They realize they're lost and need to find their way back to the trail.]({{< relref "../backpacking/3.md" >}})
