@@ -13,7 +13,7 @@ But as they continued on their journey, the weather began to change. Clouds star
 
 "Don't worry Aneta, I'm sure it's just a passing shower," he said cheerfully.
 
-![alt](/img/3a2.png)
+![alt](/ai-travel-stories/img/start.png)
 
 But it wasn't just a passing shower. Soon, the sky opened up and rain poured down on them. They hastily put on their rain gear, but it was no match for the downpour.
 
