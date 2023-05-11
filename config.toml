@@ -1,0 +1,5 @@
+baseURL = 'https://lukaskolek4-super-duper-meme-px6rqgrpx5phgv7-1313.preview.app.github.dev/'
+languageCode = 'en-us'
+title = 'Travel Tales'
+theme = 'ananke'
+mainSections = 'story'
